@@ -21,4 +21,4 @@
 }`
 - **Work experience**:at the moment I am taking courses from *RS-School*
 - **Education**: Vitebsk State Technological University
-- **English Level**: I have  _A2_ level certificate in English and continue to study at the level B1
+- **English Level**: I have  _A2_ level certificate in English and continue to study at the level B1 
