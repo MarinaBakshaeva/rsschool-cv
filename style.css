@@ -69,5 +69,12 @@ body {
     background: #d9f6ff;
     padding: 10px 0;
   }
-
-  
+.logo {
+    margin-left: 85%;
+    width: 10% 
+}
+.box {
+    background-image: url(https://rs.school/images/rs_school_js.svgure.svg);
+    margin: auto;
+    width: 5% 
+}
