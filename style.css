@@ -1,0 +1,73 @@
+body {
+  font-family: 'Merienda', cursive;
+  cursor: default;
+  padding: 0 40px;
+  background-color: #ffffff;
+}
+
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.person {
+  display: flex;
+  gap: 80px;
+  align-items: center;
+}
+
+.person__name {
+  font-size: 45px;
+}
+
+.hr {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  background-color: rgb(2, 2, 2);
+  opacity: 0.5;
+}
+
+.person__about {
+  font-size: 16px;
+}
+
+.person__image-c {
+}
+
+.person__image {
+  width: 70%;
+  border-radius: 50%;
+}
+
+.h2 {
+  font-size: 25px;
+}
+
+.list-mod {
+  padding-left: 40px;
+}
+
+.h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.example__list-item {
+    background-color: rgb(232, 234, 235);
+}
+
+.skills__list-frontend {
+  margin-bottom: 20px;
+}
+
+.h2-b {
+  margin-bottom: 50px;
+}
+
+.footer-menu {
+    background: #d9f6ff;
+    padding: 10px 0;
+  }
+
+  
